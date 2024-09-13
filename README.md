@@ -4,21 +4,17 @@
 <p align="center"> <strong> 🐳 About Me </strong> <br> </p>
 <p align="center"> Growing BackEnd & AI Developer <br> </p>
 <br>
-
-
-
-</br>
- 
+<br>
+<br>
+<br>
 <p align="center"> <strong> 🐋 Organization </strong> <br> </p>
 <p align="center"> Ewha Womans University Computer Science Major ( 2022.03 ~ current ) <br> </p>
 <p align="center"> UMC 5th Server Part(Springboot) <br> </p>
 <p align="center"> AIchemist 1~3 Vice President <br> </p>
 <br>
-
-
-
-</br>
- 
+<br>
+<br>
+<br>
 <p align="center"> <strong>🐬 Contact</strong> <br> </p>
 <p align="center"> 
  <a href=""><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -27,11 +23,9 @@
  <a href="https://sosoeunii.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> </a>
 </p>
 <br>
-
-
-
-</br>
- 
+<br>
+<br>
+<br>
 <p align="center"> <strong> 🐠 Stack </strong> <br> </p>
 <p align="center">
  <a href="https://sosoeunii.tistory.com/"><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/> </a>
@@ -48,12 +42,18 @@
  <a href="https://sosoeunii.tistory.com/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a>
 </p>
 <br>
+<br>
+<br>
+<br>
 
+***
 
-
-</br>
-
+<br>
+<br>
+<br>
+<br>
 <p align="center"> <strong> 🌊 Experiences </strong> <br> </p>
+<br>
 <br>
 <p align="center">
  Algorithm Study <br>
@@ -85,11 +85,9 @@
  Open Government International Forum : Speaker <br>
 </p>
 <br>
-
-
-
-</br>
-
+<br>
+<br>
+<br>
 <p align="center"> <strong> 🦈 Awards </strong> <br>
  <br>
  Big Data Based Future Society Problem-Solving Contest - Fishing Phishing : Excellence Encouragement Award <br>
@@ -98,5 +96,7 @@
  <br>
  EwhaThon - BaeulimFlower : Top Award <br>
 </p>
-
-
+<br>
+<br>
+<br>
+<br>
