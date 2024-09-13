@@ -10,7 +10,7 @@
 </br>
  
 <p align="center"> <strong> 🐋 Organization </strong> <br> </p>
-<p align="center"> Ewha Womens University Computer Science Major ( 2022.03 ~ current ) <br> </p>
+<p align="center"> Ewha Womans University Computer Science Major ( 2022.03 ~ current ) <br> </p>
 <p align="center"> UMC 5th Server Part(Springboot) <br> </p>
 <p align="center"> AIchemist 1~3 Vice President <br> </p>
 <br>
@@ -54,25 +54,49 @@
 </br>
 
 <p align="center"> <strong> 🌊 Experiences </strong> <br> </p>
+<br>
 <p align="center">
- 
+ Algorithm Study <br>
+ <br>
+ EC.CREW <br>
+ <br>
+ UMC 5th Backend Part(Springboot) <br>
+ <br>
+ AIchemist(Machine Learning Study) 1 ~ 3 : Vice President <br>
+ <br>
+ <br>
+ Woogjin ThinkBig Game Challenge - DinoMath <br>
+ <br>
+ UMC BackEnd Project - Couple : Backend Developer <br>
+ <br>
+ Big Data Based Future Society Problem-Solving Contest - Fishing Phishing : Leader, ML Developer <br>
+ <br>
+ Korean Society of Knowledge Information Technology Summer Conference - Batter On-Base Prediction : Leader, ML Developer <br>
+ <br>
+ EwhaThon - BaeulimFlower : Backend Developer <br>
+ <br>
+ Ggyuup - Ewha Baekjoon Service : Backend Developer <br>
+ <br>
+ <br>
+ IT Debutante - Ewha Algorithm Seminar : Speaker <br>
+ <br>
+ wrtn X Ewha Womans University Ideathon : Management Team <br>
+ <br>
+ Open Government International Forum : Speaker <br>
 </p>
-<p align="center"> <strong> 🦈 Awards </strong> <br> </p>
+<br>
 
 
- 
 
-<!--
-**sunnism03/sunnism03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<p align="center"> <strong> 🦈 Awards </strong> <br>
+ <br>
+ Big Data Based Future Society Problem-Solving Contest - Fishing Phishing : Excellence Encouragement Award <br>
+ <br>
+ Korean Society of Knowledge Information Technology Summer Conference - Batter On-Base Prediction : Best Paper Award <br>
+ <br>
+ EwhaThon - BaeulimFlower : Top Award <br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
