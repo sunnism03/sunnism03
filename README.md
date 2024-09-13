@@ -1,11 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5CD1E5&height=200&section=header&text=&fontSize=30&&fontColor=FFFFFF&fontAlignY=35" />
 
 
-# 🐳 About Me
-### Always Student 
-- AI와 BackEnd를 연결하는 개발자  
-- 작은 지식도 공유하는 개발자  
+<p align="center"> <strong>🐳 About Me</strong><br> </p>
 
+<p align="center"> <strong>🐋 Organization</strong><br> </p>
+
+<p align="center"> <strong>🐬 Contact</strong><br> </p>
+
+<p align="center"> <strong>🐠 Stack</strong><br> </p>
+
+<p align="center"> <strong>🌊 Experiences</strong><br> </p>
+
+<p align="center"> <strong>🦈 Awards</strong><br> </p>
+
+ 
 
 <!--
 **sunnism03/sunnism03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
