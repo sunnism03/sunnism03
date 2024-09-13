@@ -1,5 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4F4FA&height=130&section=header&text=Welcome&fontSize=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5CD1E5&height=200&section=header&text=&fontSize=30&&fontColor=FFFFFF&fontAlignY=35" />
 
+
+# 🐳 About Me
+### Always Student 
+- AI와 BackEnd를 연결하는 개발자  
+- 작은 지식도 공유하는 개발자  
 
 
 <!--
