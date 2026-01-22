@@ -7,10 +7,13 @@
 <br>
 <br>
 <br>
-<p align="center"> <strong> 🐋 Organization </strong> <br> </p>
+<p align="center"> <strong> 🐋 Organizations </strong> <br> </p>
 <p align="center"> Ewha Womans University Computer Science Major ( 2022.03 ~ current ) <br> </p>
+<p align="center"> EC.CREW <br> </p>
+<p align="center"> Pie(Algorithm Study) <br> </p>
 <p align="center"> UMC 5th Server Part(Springboot) <br> </p>
-<p align="center"> AIchemist 1~3 Vice President <br> </p>
+<p align="center"> AIchemist(Machine Learning Study) 1~3 Vice President <br> </p>
+<p align="center"> DevCourse Server Part <br> </p>
 <br>
 <br>
 <br>
@@ -52,49 +55,63 @@
 <br>
 <br>
 <br>
-<p align="center"> <strong> 🌊 Experiences </strong> <br> </p>
+<p align="left"> <strong> 🌊 Projects </strong> <br> </p>
 <br>
 <br>
-<p align="center">
- Algorithm Study <br>
+<p align="left">
  <br>
- EC.CREW <br>
- <br>
- UMC 5th Backend Part(Springboot) <br>
- <br>
- AIchemist(Machine Learning Study) 1 ~ 3 : Vice President <br>
+ - DinoMath(Math Game) : Unity Developer <br>
  <br>
  <br>
- Woogjin ThinkBig Game Challenge - DinoMath <br>
  <br>
- UMC BackEnd Project - Couple : Backend Developer <br>
+ - Couple(Google Map Based Dating Spot Recommendation Service) : Backend Developer <br>
  <br>
- Big Data Based Future Society Problem-Solving Contest - Fishing Phishing : Leader, ML Developer <br>
+ - Ggyuup(Ewha Baekjoon Service) : Backend Developer <br>
  <br>
- Korean Society of Knowledge Information Technology Summer Conference - Batter On-Base Prediction : Leader, ML Developer <br>
+ - BaeulimFlower(On-campus petition Service) : Backend Developer <br>
  <br>
- EwhaThon - BaeulimFlower : Backend Developer <br>
+ - PlanWith(LLM based Planning Service) : Backend Developer <br>
  <br>
- Ggyuup - Ewha Baekjoon Service : Backend Developer <br>
+ - NodeXR(XR/AI-based Collaboration Platform) : Backend Developer <br>
  <br>
  <br>
- IT Debutante - Ewha Algorithm Seminar : Speaker <br>
  <br>
- wrtn X Ewha Womans University Ideathon : Management Team <br>
+ - Fishing Phishing(ML-based Malicious URL Detection and Collaborative Response Service) : Leader, ML Developer <br>
  <br>
- Open Government International Forum : Speaker <br>
+ - Batter On-Base Prediction : Leader, ML Researcher <br>
+ <br>
+ - AIstronomy(AIxAstronomy : Galaxy Merger Stage Classification Research) : ML Researcher <br>
+ <br>
+ </p>
+<br>
+<br>
+<br>
+<br>
+ <p align="left"> <strong> 🐟 Experiences </strong> <br> </p>
+ <br>
+ <br>
+ <p align="left">
+  <br>
+  - IT Debutante - Ewha Algorithm Seminar : Speaker <br>
+  <br>
+  - wrtn X Ewha Womans University Ideathon : Management Team <br>
+  <br>
+  - Open Government International Forum, Symposium : Speaker <br>
+  <br>
+  - Asia Impact Hackathoon : Judge <br>
 </p>
 <br>
 <br>
 <br>
 <br>
-<p align="center"> <strong> 🦈 Awards </strong> <br>
+<p align="left"> <strong> 🦈 Awards </strong> <br>
  <br>
- Big Data Based Future Society Problem-Solving Contest - Fishing Phishing : Excellence Encouragement Award <br>
  <br>
- Korean Society of Knowledge Information Technology Summer Conference - Batter On-Base Prediction : Best Paper Award <br>
+ - Big Data Based Future Society Problem-Solving Contest - Fishing Phishing : Excellence Encouragement Award <br>
  <br>
- EwhaThon - BaeulimFlower : Top Award <br>
+ - Korean Society of Knowledge Information Technology Summer Conference - Batter On-Base Prediction : Best Paper Award <br>   
+ <br>
+ - EwhaThon - BaeulimFlower : Top Award <br>
 </p>
 <br>
 <br>
