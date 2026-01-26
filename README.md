@@ -14,6 +14,7 @@
 <p align="center"> UMC 5th Server Part(Springboot) <br> </p>
 <p align="center"> AIchemist(Machine Learning Study) 1~3 Vice President <br> </p>
 <p align="center"> DevCourse Server Part <br> </p>
+<p align="center"> XREAL <br> </p>
 <br>
 <br>
 <br>
