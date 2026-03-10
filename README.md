@@ -2,7 +2,7 @@
 
 
 <p align="center"> <strong> 🐳 About Me </strong> <br> </p>
-<p align="center"> Growing BackEnd & AI Developer <br> </p>
+<p align="center"> BackEnd & AI Developer <br> </p>
 <br>
 <br>
 <br>
